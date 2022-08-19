@@ -1,0 +1,15 @@
+.btn{
+    background-color: #293462;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    margin: 2%;
+    padding: 1%;
+}
+.btn:hover{
+    box-shadow: 5px 5px 7px black;
+}
+.invalid{
+    opacity: 70%;
+}

@@ -1,0 +1,9 @@
+.card{
+    margin: 0 10% 3% 10%;
+    border: 1px solid white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: #293462;
+    color: white;
+}

@@ -1,0 +1,8 @@
+.apod-image{
+    width: 80%;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+.apod-image__div{
+    text-align: center;
+}

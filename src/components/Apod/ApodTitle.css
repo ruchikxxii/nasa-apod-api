@@ -1,0 +1,7 @@
+.apod-title{
+    display: flex;
+    padding: 1% 2%;
+}
+.apod-title__title{
+    flex-grow: 1;
+}
